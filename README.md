@@ -22,10 +22,12 @@ Dự án đã được hoàn thiện với sự đóng góp của các thành vi
 "bash
 git clone [https://github.com/Darrys37/Project_machine_learning.git](https://github.com/Darrys37/Project_machine_learning.git)
 cd Project_machine_learning"
+
 Bước 2: Kiểm tra file Đảm bảo cấu trúc thư mục của bạn trông như sau (File code và file data nằm cạnh nhau):
 Project_machine_learning/
 ├── Nhom_10_do_an_hoc_may.ipynb  <-- File Code
 ├── ten_file_du_lieu.csv         <-- File Data (Database)
 └── README.md
+
 Bước 3: Cài đặt thư viện
 pip install numpy pandas scikit-learn matplotlib seaborn jupyter
